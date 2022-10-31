@@ -1,0 +1,7 @@
+{
+  "name": "ionicRefresh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
